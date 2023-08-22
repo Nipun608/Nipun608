@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone, I'm Nipun Sankalana</h1>
+<h1 align="center">Hey Everyone 👋, I'm Nipun Sankalana</h1>
 <h3 align="center">I am a backend developer.I love programming,writing,speaking and traveling</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun608&label=Profile%20views&color=0e75b6&style=flat" alt="nipun608" /> </p>
