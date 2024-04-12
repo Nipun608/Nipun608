@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipun608&label=Profile%20views&color=0e75b6&style=flat" alt="nipun608" /> </p>
 
-- 🌱 I’m currently learning **Java /J2EE & Spring boot**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Nipun608](https://github.com/Nipun608)
 
-- 💬 Ask me about **Java Spring boot**
+- 💬 Ask me about **Java , php , Spring boot , Laravel**
 
 - 📫 How to reach me **nipun.sankalana@gmail.com**
 
