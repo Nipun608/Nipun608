@@ -32,7 +32,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="35" />
   </a>
   <a href="https://instagram.com/nipun.sankalana" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="35" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original-wordmark.svg
+" alt="Instagram" width="35" />
   </a>
 </p>
 
