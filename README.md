@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center" style="color:#388e3c; font-style: italic; font-weight: 600;">
-  💻 Software Engineer | Java & PHP Developer | Full Stack Enthusiast
+  💻 Software Engineer | Java | PHP | Python Developer | Full Stack Enthusiast
 </h3>
 
 <p align="center">
