@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently crafting scalable full-stack applications with **Spring Boot** & **Laravel**  
-- 💬 Feel free to ask me about `Java`, `PHP`, `Spring Boot`, `Laravel`, `Vue.js`, and `Dart`  
+- 💬 Feel free to ask me about `Java`, `PHP`, `Spring Boot`, `Laravel`, `Vue.js`, `Dart`, and `Python`  
 - 👨‍💻 Browse my work on GitHub: [github.com/Nipun608](https://github.com/Nipun608)  
 - 📫 Say hello: **nipun.sankalana@gmail.com**  
 - 🌐 Portfolio: [nipun608.github.io](https://nipun608.github.io/)
@@ -31,7 +31,6 @@
   <a href="https://fb.com/nipun.sankalana" target="_blank" rel="noopener noreferrer" style="margin: 0 15px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="35" />
   </a>
- 
 </p>
 
 ---
@@ -45,6 +44,7 @@
     <p style="font-size: 0;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
